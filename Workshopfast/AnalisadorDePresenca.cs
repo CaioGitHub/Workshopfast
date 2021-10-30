@@ -6,7 +6,7 @@ namespace Workshopfast
     public class AnalisadorDePresenca
     {
         string[] atas;
-        //construtor
+        
         public AnalisadorDePresenca(string[] atas)
         {
             this.atas = atas;
